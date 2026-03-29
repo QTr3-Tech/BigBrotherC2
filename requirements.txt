@@ -1,0 +1,11 @@
+customtkinter
+pillow
+psutil
+keyboard
+windows_toasts
+uuid
+pygame
+wmi
+pynput
+pywin32
+webbrowser
